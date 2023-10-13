@@ -1,0 +1,17 @@
+.cls{
+    color: darkmagenta;
+    background-color: blue;
+}
+
+.cls.coolClass{
+    font-size: 70px;
+}
+#banana{
+    color: yellow;
+    background-color: yellowgreen;
+    font-weight:bold;
+}
+#watermelon{
+    color: red;
+    background-color: greenyellow;
+}
